@@ -1,0 +1,18 @@
+# Git Notes
+============
+1) git init : to initialize the empty git repo
+2) git add filename.ext filename2.ext : to add file to staging area
+3) git add . : to add all files within sane folder
+4) git status : to check the git status
+5) git commit -m "commit message" : to commit for git repo
+6) git log : to show the log file
+7) git restore file.ext or . : to get back all the changes and set the files to last commit
+8) git branch -m branchname : to create a branch
+9) git push -u origin branchname : to push the code to remote repo
+10) git clone repoUrl : to clone the existing git repo
+11) git pull : to pull the updated file once you have used git clone
+
+
+
+
+
